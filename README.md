@@ -1,6 +1,8 @@
 # tegrarcmtool
 A software allowing a user to take advantage of Fusée Gelée with ease.
-~~~~~~~~Midstor~~~~~~~~~~
+
+Midstor
+
 Hey! thanks for using rcmtool (TegraRCM tool) a gui version is in the works, heres some info that you may want to know.
 1. The GUI version will need Java to run.
 2. CFWs / Bootloaders (hekate, ReiNX and sxos are not by me)
@@ -15,7 +17,7 @@ Notice:As providing license links this allows and puts TegraRCM tool under those
 it just makes it easier.
 
 
-~~~~~~~~~~~~~By Midstor~~~~~~~~~~~~
+Version Information
 readme version 1.0
 all bootloaders are latest.
 TegraRCM tool version 1.0
