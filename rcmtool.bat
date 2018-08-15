@@ -1,3 +1,4 @@
+@echo off
 title TegraRCM tool v1 by Midstor
 echo TegraRCM tool by Midstor
 echo TegraRCMSmasher not by midstor (backend software for payloads)
